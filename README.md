@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Praveensarathy
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Full Stack development(Java)
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me praveensarathy15@gmail.com
 
 <!---
